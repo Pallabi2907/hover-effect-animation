@@ -1,0 +1,16 @@
+.fixed-nav{
+    margin-top: 3vw;
+    display: flex;
+    text-align: end;
+    flex-direction: column;
+    gap: .5vw;
+    
+}
+.fixed-nav-1,
+.fixed-nav-2,
+.fixed-nav-3{
+    height: 3vw;
+    width: 5vw;
+    background-color: rgb(102,0,255);
+    
+}
